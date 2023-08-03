@@ -16,5 +16,7 @@ if __name__ == '__main__':
     print(base64.urlsafe_b64encode(pickled))
 ```
 You need to copy base64 output:
+
 `gASVNAAAAAAAAACMCnN1YnByb2Nlc3OUjAxjaGVja19vdXRwdXSUk5RdlCiMA2NhdJSMBGZsYWeUZYWUUpQu`
+
 and paste it into web form.
